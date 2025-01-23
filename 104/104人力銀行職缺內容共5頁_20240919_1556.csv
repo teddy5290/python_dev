@@ -1,0 +1,535 @@
+﻿"職缺內容","公司名稱","產業別","工作內容","地區","薪資","網址"
+"Data Engineer","街口電子支付股份有限公司","網際網路相關業","◆THE ROLE & THE TEAM 
+As a Data Engineer in JKOPay, you will be responsible for processing JKOPay’s online transaction data and offline data analysis with your experience in data engineering. JKOPay serves +6 million users in Taiwan, as well as partners and stakeholders that integrate with our payment service, which handles 3-billion transaction amounts every month. 
+
+With the rapid growth of JKOPay’s business, Data Engineer is the key to designing systems for collecting, storing, and analyzing data at scale, as well as convert raw data into usable information for business analysis to interpret. 
+
+This is an opportunity to help shape and expand JKOPay’s ETL data pipeline. If you are interested in handling multiple-terabyte data and improving engineering efficiency, in a great team that keeps growing, this role is for you. 
+
+
+◆WHY YOU SHOULD BE INTERESTED 
+-Translate business requirements & end to end designs into technical implementations and responsible for building batch data warehouse. 
+-Manage data modeling design, writing, and optimizing ETL jobs. 
+-Collaborate with the business team to build data metrics and data visualization based on data warehouse. 
+-Responsible for building and maintaining data products. 
+-Involvement in rollouts, upgrades, implementation, and release of data system changes as required for streamlining of internal practices. 
+
+
+◆WE'D LOVE TO MEET YOU IF 
+-At least 2 years of relevant experience in data engineering. 
+-Proficient in creating and maintaining complex ETL pipeline end-toend while maintaining high reliability and security.
+-Familiar with backend engineering and practical knowledge of shell, SQL, and one more programming language (e.g. Python, Scala, etc.). 
+-Familiar with the common distributed computing engine or platform (e.g. ClickHouse, Spark, Kafka, BigQuery, Airflow, etc). 
+-Familiar with at least 1 data exploration and visualization platform (e.g. Superset, Tableau). 
+-Familiar with data lake, data warehouse, and data mart concept, and have production experience in modeling design. 
+-Familiar with at least 1 Cloud data flow solution (e.g. AWS Data Pipelines, GCP Dataflow, etc.) is a plus. 
+-Experience with Data Catalog is a plus. 
+-Excellent interpersonal and communication skills with the ability to engage and managing internal and external stakeholders across all levels of seniority.","台北市松山區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/7jw2n?jobsource=hotjob_chr"")"
+"AI資料處理人員(工讀可)","易得雲端股份有限公司","網際網路相關業","我們正在尋找一位注重細節且精通技術的實習生加入我們的人工智慧團隊，擔任語音到文字訓練資料標記實習生。該角色涉及使用語音資料來準確標記和註釋錄音，這對於微調人工智慧模型以提高語音識別能力至關重要。對於那些希望獲得人工智慧和機器學習，特別是自然語言處理（NLP）的實踐經驗的人來說，這是一個很好的機會。
+
+【具備條件】
+1.　目前正在攻讀或最近完成了電腦科學、語言學、資料科學或相關領域的學位。
+2.    對細節的高度關注和維持高水準準確性的能力。
+3.    對人工智慧、機器學習或自然語言處理(NLP) 概念的基本了解。
+4.    精通國語、台語；多語言技能是一個優勢。
+5.    能夠輕鬆使用各種軟體工具進行資料標記和註解。
+6.    獨立工作和團隊合作的能力。
+7.    良好的組織能力和有效管理時間的能力。
+
+【主要工作】：
+1.  根據提供的指南標記和註釋語音資料。
+     (Label and annotate speech data according to guidelines provided.)
+2.  檢查並修正轉錄的準確性和一致性。
+     (Review and correct transcriptions for accuracy and consistency.)
+3.  協助制定和完善資料標籤指南。
+     (Assist in the development and refinement of data labeling guidelines.)
+4.  與人工智慧團隊合作，確保數據品質符合培訓標準。
+     (Collaborate with the AI team to ensure data quality meets training standards.)
+5.  報告標籤進度以及在此過程中遇到的任何問題。
+     (Report on labeling progress and any issues encountered during the process.)
+6.  在適用的情況下協助實現部分標籤流程的自動化。
+     (Help in automating parts of the labeling process where applicable.)
+
+*** 應徵前，請至EVOX官網了解產品 https://www.evoxglobal.com/ 
+*** EVOX為創新之月租型往商務通訊商品，比傳統電信更具彈性，以及多項優點
+
+本公司產品為雲端通訊服務軟體EVOX以及EVOX Connect 雲端客服系統，在台灣已經累積2千多家企業客戶，如: IKEA, Yamaha, 聯華食品, Foodpanda、台灣奧迪福斯汽車、OB嚴選、永聯物流、親子天下雜誌、世久營造、Klook、東森分眾傳媒、...、等知名企業，除了在台灣拓展商務，並計劃擴大市場至亞洲其他各國。
+
+易得雲端股份有限公司E2 Nova為美商迪諾亞D2 Nova 100% 轉投資的子公司，2022年11月起，EVOX在台灣的業務，已由E2Nova承接，承襲母公司專業的IP通訊技術，E2 Nova以發展企業全面向通訊(360 Omni Channel Communication) 為目標，並採用創新雲端技術與網路服務SaaS模式，在台灣已經有超過2300家企業客戶 (如 IKEA, Yamaha, 裕隆汽車, 聯華食品, Foodpanda, Audi汽車, Nestle雀巢, ...等知名企業)。
+
+E2 Nova基於原有的電信技術IMS、VoLTE、RCS，結合OTT與Web雲端科技，提供員工多元的技術學習機會。
+
+我們重視每一位員工，除了有良好工作環境、也提供學習及成長的空間，歡迎優秀的朋友一起加入美商迪諾亞股份有限公司台灣分公司的工作行列。E2 Nova總部設於美國加州聖塔芭芭拉。
+
+Company background: E2 Nova is a software startup with offices in Taipei, Taiwan and Santa Barbara, California. You can learn more about our offerings at http://www.d2nova.com and https://www.evoxglobal.com/tw/home 
+
+
+Location 工作地點: Taipei Neihu 台北 內科 
+","台北市內湖區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/8hwa2?jobsource=hotjob_chr"")"
+"資料工程師","群健科技股份有限公司","電腦軟體服務業","1. 各種資料模型設計、資料蒐集、串接、處理、技術文件撰寫，因應業務應用場景，規劃與設計分析型資料集
+2. 資料 ETL 流程自動化規劃、設計、開發與維運監控
+3. 與工程團隊合作，檢視數據存儲和數據架構的設計和維護，以確保數據的安全性和可擴展性","台北市中山區","月薪45,000元以上","=HYPERLINK(""http:////www.104.com.tw/job/8ht2r?jobsource=n_my104_search"")"
+"D4000Y 資料倉儲數據工程師","富邦媒體科技股份有限公司(富邦momo)","百貨相關業","我們在尋找具有熱情、創新和技術專業的資料工程師加入我們數據團隊，如果你對數據技術充滿熱情，熱於挑戰和解決各種數據問題，歡迎加入我們。
+
+
+工作內容:
+1. 負責ETL流程開發與維運，確保資料準確性與完整性。
+2. 參與資料倉儲的設計、開發、優化和","台北市內湖區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/8a7ae?jobsource=n_my104_search"")"
+"科技部 Senior Data Engineer資料工程師(襄理)","麥當勞授權發展商_和德昌股份有限公司","其他餐飲業","援使用單位分析報表和資料應用。
+• 開發數據處理程序(ETL)，依據業務邏輯進行數據主題設計、歸納，以支援下游系統數據應用。
+• 維護並擴充數據字典(Data Dictionary)，包含業務需求、數據設計規格和數據血緣，以確保對數據解決方案的理解","台北市中正區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/8ecsa?jobsource=n_my104_search"")"
+"資料工程師","雅德思行銷顧問有限公司","廣告行銷公關業","與喜愛冒險的您一起加入我們雅德思行銷顧問公司!
+
+我們重視每一位夥伴，再創新的過程中我們協助客戶成長也跟著客戶一起成長，我們重視團隊也強調個人的發展與想法，發揮創意也包容他人的想法，是雅德思行銷的文化與DNA。
+
+資料工程師主要工作內容","台北市大安區","月薪70,000元以上","=HYPERLINK(""http:////www.104.com.tw/job/8ep3f?jobsource=n_my104_search"")"
+"資料倉儲工程師 Data Engineer-集團徵才-數據科技 (數數發中心, DDT)_I00016337","國泰金控_國泰金融控股股份有限公司","金融控股業","比起工作內容，你應該要先認識我們的團隊：
+我們是一個正在成長的資料科學團隊，在找有熱情、想接受挑戰、能一起攜手成長前進的夥伴
+
+我們需要這樣的人：
+1. 對資料工程領域有興趣 - 想朝這個方向發展，探索資料科學專業
+2. 重視團隊合作 - 在團隊","台北市大安區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/88n29?jobsource=n_my104_search"")"
+"資料工程師","臺灣中小企業銀行股份有限公司","銀行業","大型資料倉儲之資料開發、設計及應用。","台北市中正區","月薪43,000~68,000元","=HYPERLINK(""http:////www.104.com.tw/job/6f3dr?jobsource=n_my104_search"")"
+"資料工程師 (ETL)","聯合通商電子商務股份有限公司","電腦軟體服務業","1. 使用 ETL工具開發或是資料庫/資料表系統相關之程式設計及開發
+2. 依規格設計開發包含 SQL Script 以及 Store Procedure 等對資料進行處理的程式，並進行UT測試，撰寫驗證報告
+3. 資料管理與處理相關專案之需求訪","台北市中山區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/81zdc?jobsource=n_my104_search"")"
+"資產管理部-租賃組-資料工程人員（資深規劃師、規劃師）","國家住宅及都市更新中心","不動產經營業","1.辦理租賃業務相關數據建立、設計及維護作業，包含:資料萃取、轉置與儲存等清洗流程(ETL)、資料倉儲建置與資料管線流程設計、結構化資料庫SQLserver開發及維護。
+2.協助辦理社會住宅及包租代管相關業務。
+3.負責其他政策專案。
+4.其他主","台北市中山區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/8fip9?jobsource=n_my104_search"")"
+"資料工程師 (BI分析)","雄獅資訊科技股份有限公司","電腦軟體服務業","1. 資料倉儲維護與優化
+　- 內外部資料整合及收集
+　- 資料庫預存程序 (SP) 管理及效能調整
+
+2. 資料清理流程維護及優化
+　- 工作流程規劃、建置及維護
+　- 具 MSBI (MSSQL/SSIS/SSAS/SSRS/","台北市內湖區","月薪35,000~60,000元","=HYPERLINK(""http:////www.104.com.tw/job/3o2f1?jobsource=n_my104_search"")"
+"資料工程師","松凌科技股份有限公司","電腦軟體服務業","需要條件:
+1.願意學習保險相關知識
+2.對SQL有基本的能力
+
+
+主要工作如下
+1.各項資料盤點與蒐集，並分析其資料流程。
+2.資料倉儲 ETL 流程規劃、設計
+3.資料品質之監控與管理，及對應機制的建立
+4.需求分析、溝通、解決方案建議與技術","台北市中正區","月薪35,000~38,000元","=HYPERLINK(""http:////www.104.com.tw/job/79ccc?jobsource=n_my104_search"")"
+"EBS 財務系統暨資料倉儲工程師","三井住友海上集團_明台產物保險股份有限公司_數位科技處","產物保險業","1.各項資料蒐集、盤點與管理，持續優化資料品質並執行改善計畫。
+2.資料倉儲ETL設計、開發與維護，改善ETL效能並依各營運需求建立DM。
+3.針對各類資料應用場景，與使用者進行需求訪談、系統分析與程式開發。
+4. 參與新專案資料架構、分析與執行","台北市松山區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/7tise?jobsource=n_my104_search"")"
+"<資訊部>資料工程師","智通科創股份有限公司","其他相關製造業","【 職務內容 】 
+（1）負責實時數據倉庫的架構設計、開發、性能優化和穩定性保障。
+（2）建設數據治理和管理體系，結合業務+元數據+技術，提高數據服務的數據品質，保障數據產出的穩定性。
+（3）負責數據模型的設計，技術架構，ETL實施，性能優化，","台北市內湖區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/8geg7?jobsource=n_my104_search"")"
+"資料倉儲與資料中台經理-- 台北","德昂資訊股份有限公司","電腦軟體服務業","接和轉換流程，尤其是從ERP、CRM和HR系統中處理數據。
+
+執行（Do）
+1.	監督資料倉儲和資料中台的建設和部署，確保按計劃進行。
+2.	實施數據整合、轉換和加載過程（ETL），確保數據質量和實時性。
+3.	領導團隊完成數據庫的維護和優化任務，","台北市松山區","年薪1,000,000~2,000,000元","=HYPERLINK(""http:////www.104.com.tw/job/8btam?jobsource=n_my104_search"")"
+"【數發中心】資深資料科學工程師","新安東京海上產物保險股份有限公司","產物保險業","1. 能理解公司業務數據邏輯，並設計及建制後續產品應用的資料倉儲
+2. 與數據分析師合作，進行機器學習與統計分析模型最佳化的研究與開發，並導入數據系統流程
+3. 資料 ETL 相關技術研究與實作
+4. 數據工程相關的新技術研究、概念性驗證與程式開","台北市中山區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/8fb2j?jobsource=n_my104_search"")"
+"【ETL】數據工程師","綠色遊戲有限公司","電腦軟體服務業","1、參與資料庫的設計和實施工作； 
+2、負責專案中資料處理相關的大量腳本開發與報表開發工作；
+3、負責測試、投產以及投產演練過程中的資料移轉工作。","台北市大安區","年薪600,000~1,800,000元","=HYPERLINK(""http:////www.104.com.tw/job/8cuxs?jobsource=n_my104_search"")"
+"資料工程師 (Data Engineer)","替您錄科技股份有限公司(TGC Taiwan, Inc.)","多媒體相關業","我們正在尋找一位熱情且富有才華的資料工程師，加入我們的團隊，協助解決廣告投遞的資料內容。在這裡有大量的數據供你發揮所長，將學過的知識及方法應用到實務的工作上。
+
+我們希望你具備以下三大特質：
+對資料工程領域有強烈興趣和熱情 。
+重視團隊合作，具備","台北市松山區","月薪58,000~80,000元","=HYPERLINK(""http:////www.104.com.tw/job/8ekil?jobsource=n_my104_search"")"
+"資料倉儲工程師(資訊部)-歡迎具原住民身份投遞","旺旺友聯產物保險股份有限公司","產物保險業","1.具備資料倉儲開發2年以上實務經驗。
+2.略熟 Microsoft SQL Server 2008 SSIS、SSAS以上版本或 IBM DataStage 11.0 版本工具。
+3.熟悉 T-SQL ，且略懂 PL-SQL 語法。
+4.略熟","台北市大安區","月薪33,000~45,000元","=HYPERLINK(""http:////www.104.com.tw/job/717pe?jobsource=n_my104_search"")"
+"後端工程師","聚贏有限公司","網際網路相關業","我們在尋找【具備團隊合作精神、勇於接受挑戰、熱愛學習】的後端工程師，負責開發和管理數據處理後端系統、執行流程自動化與系統優化、並與團隊合作完成產品開發。
+
+這裡有高度自由的辦公環境，期待值得信賴、積極學習的你加入，與我們一起解決複雜且有趣的技術挑戰，推動創新的產品開發！
+
+________________________________________________________________________________________
+
+<工作內容>
+1. 開發和管理數據收集與處理相關的後端系統。
+2. 參與前後端開發，優化資料傳遞與資料處理。
+3. 負責工作流程的自動化、流程優化和性能調整。
+4. 優化現有產品功能並進行日常維護。
+5. 與技術領導合作，執行程式設計任務。
+
+
+<必要條件>
+1. 熟悉 Linux 系統操作。
+2. 有架設伺服器，及設定代理、負載平衡、緩衝、緩存等經驗。
+3. 精通 Python 與 PHP 開發。
+4. 具備 SQL / NoSQL 資料庫的實務經驗（如 MySQL、Redis、MongoDB）。
+
+
+<加分條件>
+1. 具數位行銷經驗者優先，如 SEO、流量創建、轉換優化、A/B 測試等。
+2. 具前端技術的實務經驗，如 HTML5、CSS3、JavaScript (ES6+) 及現代 JavaScript 框架（如 React、Vue.js）。
+3. 具 Laravel 專案/產品開發經驗，擅長Laravel框架。
+4. 有使用容器技術（如 Docker, Kubernetes）的實際經驗。
+5. 熟悉 CI/CD流程和工具，具備自動化實務經驗。
+6. 對人工智慧技術充滿熱情，積極學習並緊跟行業趨勢。","台北市中正區","月薪50,000~80,000元","=HYPERLINK(""http:////www.104.com.tw/job/8flaz?jobsource=hotjob_chr"")"
+"雲端研發工程師 Database/Back-end Engineer (台北內湖)","易得雲端股份有限公司","網際網路相關業","(每周享一天在家上班)
+
+本職缺為後端開發工程師 (Back-end Engineer)， 從事本公司雲端服務器的後端工作研發 (熟悉資料庫系統者優先面試)。 本公司的服務器為基於公有雲之架構，運行於AWS和GCP之上。
+
+*** 應徵前，請至EVOX官網了解產品 https://www.evoxglobal.com/ 
+*** EVOX為創新之月租型往商務通訊商品，比傳統電信更具彈性，以及多項優點
+
+本公司產品為雲端通訊服務軟體EVOX以及EVOX Connect 雲端客服系統，在台灣已經累積1千多家企業客戶，如: Foodpanda、台灣奧迪福斯汽車、OB嚴選、永聯物流、親子天下雜誌、世久營造、Klook、東森分眾傳媒、...、等知名企業，除了在台灣拓展商務，並計劃擴大市場至亞洲其他各國。
+
+易得雲端股份有限公司E2 Nova為美商迪諾亞D2 Nova 100% 轉投資的子公司，2022年11月起，EVOX在台灣的業務，已由E2Nova承接，承襲母公司專業的IP通訊技術，E2 Nova以發展企業全面向通訊(360 Omni Channel Communication) 為目標，並採用創新雲端技術與網路服務SaaS模式，在台灣已經有近2000家企業客戶 (如 Foodpanda, Audi, Nestle雀巢, ...等知名企業)。
+
+E2 Nova基於原有的電信技術IMS、VoLTE、RCS，結合OTT與Web雲端科技，提供員工多元的技術學習機會。
+
+我們重視每一位員工，除了有良好工作環境、也提供學習及成長的空間，歡迎優秀的朋友一起加入美商迪諾亞股份有限公司台灣分公司的工作行列。E2 Nova總部設於美國加州聖塔芭芭拉。
+
+Company background: E2 Nova is a software startup with offices in Taipei, Taiwan and Santa Barbara, California. You can learn more about our offerings at http://www.d2nova.com and https://www.evoxglobal.com/tw/home 
+
+關於職務 :
+
+Job responsibilities:
+• Collaborate as part of a small, nimble development team to help develop and test new Software as a Service products.
+• Co-work with engineers in our Taipei and US locations to develop backend micro services
+
+Qualifications & Experience:
+A qualified candidate has a mix of the following experiences, and an eagerness to ramp up quickly in areas where they are lacking in hands-on industry experience. 
+
+• BS in Computer Science, Software Engineering or related field
+• 2+ years' experience in Back-end Development
+• C/C++ Multi-threaded applications, Network Socket programming, WebSocket, REST API
+• Experience with Linux operating systems
+• Experience with Web Back-end Development, C/C++, WebSocket, RESTful APIs
+• Experience with using database such as SQL, MySQL a plus
+• Strong understanding of Object Oriented Programming
+• Strong English language skills (written and verbal)
+
+Pluses:
+• Experience with TCP/IP, VoIP protocols, and Open Source VoIP packages such as FreeSWITCH, OpenSIPS, WebRTC
+• Experience with design patterns
+• Understanding of Agile and test-driven development methodologies
+• Familiar with Bash Scripts, Python, Docker
+• An understanding and passion for developing highly secure and highly available systems
+• A strong desire to learn new technology and teach others
+• Strong analytical, problem solving and production diagnostic skills
+• Experience training and mentoring others
+
+
+
+Location 工作地點: Taipei Neihu 台北 內科 
+","台北市內湖區","年薪900,000~1,600,000元","=HYPERLINK(""http:////www.104.com.tw/job/7uwyk?jobsource=hotjob_chr"")"
+"【管理服務中心】資料工程師","中華海洋生技股份有限公司","生化科技研發業","1.	設計、開發、維護和管理大量資料的數據倉儲及視覺化報表，以支援業務需求。
+2.	資料倉儲程式開發與建置，包括企業邏輯資料處理、數據清洗等
+3.	其他主管交辦事項
+4.	整合不同來源的資料
+5.	協助提高資料質量，並確保資料安全
+6.	參與公司","台北市松山區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/7n6u2?jobsource=n_my104_search"")"
+"資料工程師 (台北)","雲端達人科技股份有限公司","電腦軟體服務業","1.熟悉資料 ETL 流程的規劃、設計、開發與維護
+
+2.具備 PL/SQL 經驗
+
+3.熟悉Oracle DB
+
+4.具備Trinity經驗(nice to have) 
+
+5.資料品質之監控與管理
+
+6.具有資料分析經驗、細心","台北市中山區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/82ksp?jobsource=n_my104_search"")"
+"資料工程師(資訊策略發展部)_I00017395","國泰綜合證券股份有限公司","證券及期貨業","【工作內容】
+1. 負責Hadoop、Spark相關數據湖open source維運以及優化
+2. 數據分析、應用之相關程式(Python)開發
+3. 負責Airflow維運
+4. ETL數據清洗與數據模型程式維運與開發
+5. 資料庫規劃、設計及","台北市大安區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/8cmdl?jobsource=n_my104_search"")"
+"數據應用部-資料工程人員","永豐商業銀行股份有限公司","銀行業"," SSIS ETL)
+5.專案管理：內外部單位溝通協調、資料導入需求分析確認、技術評估、進度追蹤等
+6.資料視覺：Dashboard開發、資料視覺呈現等網頁維護與開發","台北市中山區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/87mf8?jobsource=n_my104_search"")"
+"[台北] ETL/ 資料分析/ 報表開發/ BI工程師","金上晉科技股份有限公司","金屬表面處理及熱處理業","1. 跨系統資料梳理及資料倉儲整合(ETL)應用(SSIS、T-SQL、Store Procedure、Python)。
+2. SSAS之規劃、設計、分析、維護。
+3. 報表規劃及設計 (SSRS 3年以上經驗、Power BI)。
+4. 資料分","台北市信義區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/7gnzs?jobsource=n_my104_search"")"
+"資料工程師(數據應用部)","永豐金證券股份有限公司","證券及期貨業","析/資料工程相關二年以上工作經驗尤佳
+
+【恰好有以下特質是加分的】
+1. 具較強的溝通協調能力和團隊精神，熱愛程式與數據，喜歡研究新技術
+2. 樂意跟同事們一起討論打造創新
+3. 對大數據平台建置及程式開發有經驗或興趣者
+","台北市中正區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/8ctxn?jobsource=n_my104_search"")"
+"資料分析工程師 Analytics Engineer (Data) [RD]","酷遊天股份有限公司","旅遊服務業","財務等。
+ 
+
+【我們期待你具備】
+1. 具備 2 年以上在資料領域擔任資料分析師、資料工程師或同等職位。
+2. 能直接面對需求單位，具備細心、耐心、清晰的邏輯思維與簡報能力。
+3. 熟悉 Python/SQL 開發資料操作與分析程式能力，並具有","台北市內湖區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/8aott?jobsource=n_my104_search"")"
+"資料工程師 Data Engineer","永慶房產集團_永慶房屋仲介股份有限公司","不動產經營業","永慶房產集團為房仲產業龍頭，用科技創新引領創新變革，歡迎IT領域的優秀夥伴加入!
+
+工作內容如下：
+1.規劃集團資料流程，達成資料整合綜效。
+2.建置企業數據中台，管控集團資料倉儲品質與正確性。
+3.與資料分析師協同合作，進行資料分析前處理，提供","台北市大安區","月薪40,000~65,000元","=HYPERLINK(""http:////www.104.com.tw/job/78pf4?jobsource=n_my104_search"")"
+"集團聯合稽核總部/資料工程師(台北遠企)","遠東新世紀股份有限公司","紡織成衣業","【工作內容】
+1.開發/維護爬蟲程式，取得網站資料轉入資料庫。
+2.開發/維護ETL程式，將來源資料映射到資料庫，並提供資料集給商業分析工具。
+3.開發自然語言處理工具，簡稱NLP，須熟悉自然語言模型。
+4.建置提詞(Prompt)工程，提高","台北市大安區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/70m44?jobsource=n_my104_search"")"
+"資料工程師 / 數據服務架構師","玉山綜合證券股份有限公司","證券及期貨業","1. 資料倉儲管理與數據中心建置與管理
+2. 負責資料蒐集及處理各項數據、設計資料模型和ETL 流程設計
+3. 設計與開發自動化流程
+4. 進行數據應用與串接之需求訪談
+5. 營運事項之主協辦及其他交辦事項
+","台北市中山區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/889qn?jobsource=n_my104_search"")"
+"ETL軟體工程師","雙子數位科技有限公司","電腦軟體服務業","嗨～～哈囉～
+
+你是本公司要找的ETL資料倉儲高手嗎?
+就是你！別懷疑！！徵的就是你～
+本公司需要有在ETL數據實務上2-3年以上開發經驗的你唷～
+
+此職缺的職務內容有：
+
+• 收集需求和業務流程知識，以便將資料轉換為方式，以滿足最終用戶的需求。","台北市信義區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/758vi?jobsource=n_my104_search"")"
+"【資訊部】資料工程師(Data Engineer)","台灣知識庫股份有限公司","數位內容產業","1.負責數據管理，ETL流程規劃，以及資料分析所需之數據源預處理。
+2.處理及挑戰Data相關工程問題，包括建立data pipeline、探勘收集處理。
+3.管理數據庫（資料表日常維護及更新）、資料提取、資料倉儲。
+4.建立自動化工具和腳本，簡","台北市中正區","月薪40,000~45,000元","=HYPERLINK(""http:////www.104.com.tw/job/7ck9p?jobsource=n_my104_search"")"
+"資料工程師","翰霖科技資訊股份有限公司","電腦軟體服務業","【必要技能】
+
+☑️ 負責TeraData資料庫遷移
+☑️ 具備系統設計經驗3年以上經驗
+☑️ 具備系統流程整合能力 MS Synapse、SQL server procedure 
+☑️ 具備1年系統流程整合能力Azure資料管線開發經驗
+☑️","台北市中正區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/8csqc?jobsource=n_my104_search"")"
+"資料工程專業人員(資料工程部)","國泰綜合證券股份有限公司","證券及期貨業","實務應用
+5. 協助企劃、行銷團隊進行數據分析
+
+【需求條件】
+1. 資訊工程、資訊管理、財稅金融相關科系畢或具備程式開發工作經驗
+2. 具T-SQL語法及Stored Procedure開發經驗 
+3. 有開發C#或ASP.Net、Python等","台北市大安區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/6vb99?jobsource=n_my104_search"")"
+"資料工程師 Data Engineer","果實夥伴股份有限公司","網際網路相關業","【工作內容 】
+-  ETL 之開發、處理(資料清理、儲存、分析)與監測
+- 開發與設計專案所需 API 服務並與後端工程師合作，完成系統產品化程序
+- 依據不同業務需求，完成建置/維運/更新各式 Data infra 的需求
+- 與數據產品管理","台北市內湖區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/7dpwf?jobsource=n_my104_search"")"
+"數據工程師","中化控股_中國化學製藥股份有限公司","藥品製造業","1.數據處理 - 建立資料倉儲、資料湖，ETL 工具與流程 
+2.數據串接 - 協助串接內外部資料，應用資料 
+3.系統優化 - 程式碼與文件維護、效能優化
+~熟悉視覺化軟體如 Tableau, Power BI 者加分~
+
+","台北市中正區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/8a8zz?jobsource=n_my104_search"")"
+"資料工程師","數解人意科技股份有限公司","電腦軟體服務業","及合作夥伴多元，包括媒體、媒體代理商、整合行銷、公關、品牌、電子商務、影視產業、政府單位、學術機構及跨國企業等。
+
+
+▋職務內容
+1. 讀取與寫入自建之全文搜尋引擎、SQL 資料庫
+2. 使用 ETL 管理工具如 Airflow，開發 ETL","台北市中山區","月薪50,000元以上","=HYPERLINK(""http:////www.104.com.tw/job/85lh8?jobsource=n_my104_search"")"
+"網站管理駐點服務工程師","萬維科技股份有限公司","電腦軟體服務業","1. 接聽客服電話
+2. 協助文章與資料上稿
+3. 網站操作諮詢與協助
+4. 定期檢查網站內容與修訂錯誤
+5. 系統上版管制與測試
+6. 網路相關設定調整與問題排除
+7. 系統軟體相關測試
+8. 撰寫工作日誌與系統月報
+9. 其他業主與專案經理交辦事項","台北市中正區","月薪35,000元以上","=HYPERLINK(""http:////www.104.com.tw/job/7gpwk?jobsource=hotjob_chr"")"
+"【擴編】資訊工程師/專案副理","CoCo都可_億可國際飲食股份有限公司","飲料店業","1. 總部外部及內部資訊系統 (ITR/ERP/WMS)、管理報表、及電子表單功能開發測試及優化維護
+2. 網站系統管理及效能調校、資安防範議題之優化調整、檢測工具之導入及使用
+3. 相關資訊系統、OA設備管理、系統網路維運相關庶務工作","台北市士林區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/8bqsj?jobsource=hotjob_chr"")"
+"ETL 資料分析程式設計師","碩誠國際股份有限公司","電腦軟體服務業"," Oracle)經驗，熟悉DB架構及基本設定。
+2. 熟悉資料庫工具操作(如Oracle SQL Developer, SQL Server Managerment Studio)。
+3. 熟悉Windows及Linux等作業系統基本操作。
+4. 有ETL開發","台北市松山區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/6f1b4?jobsource=n_my104_search"")"
+"I3901 大數據資料工程師(AI/ML)","遠傳電信股份有限公司","電信相關業","1. 開發與維護 AI/ML/生成式AI / ETL data pipeline
+2. 協助數據分析進行資料清洗及轉置
+3. 負責資料品質之管理及監控，資料反饋及優化之相關機制","台北市內湖區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/8cgss?jobsource=n_my104_search"")"
+"【數位驅動】資料科學工程師_ 數據管理_I00003122","國泰世華商業銀行股份有限公司","銀行業","【主要職責 Who we are looking for】 
+負責企業資料倉儲之數據管理，包含 : 資料市集設計、海內外倉儲ETL批次之開發/維運/監控、倉儲相關數據整合加值運用與分析，提供高品質與有價值的資料分析應用。 
+【職務說明 What","台北市信義區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/89ofn?jobsource=n_my104_search"")"
+"[ Python ] Senior Data Engineer 資料工程師  #Data & AI  #ACT台灣敏捷大賞獎2024","炬識科技股份有限公司","其它軟體及網路相關業"," Streaming Platform 等。
+- 有 ETL 或資料分析案之專案經驗。
+- 樂於與團隊互動、與客戶合作，並回應變化，願意了解客戶產業的領域知識以開發可用的軟體。
+- 認同溝通的雙向性，職務內所需之訊息主動聽取、提出必要問題以正確理解，不依靠","台北市中山區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/7kabt?jobsource=n_my104_search"")"
+"DATA_(資深)資料工程師","博弘雲端科技股份有限公司","網際網路相關業","【工作內容】
+1. 將概念性想法設計規劃為可執行的解決方案
+2. 大數據專案的規劃，數據接入、清洗、建模與可視化的設計
+3. 與機器學習工程師、雲端架構師、PM密切合作共同合作完成專案,供客戶高質量的雲端數據相關服務
+4. 負責協助客戶整合、設計","台北市中山區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/83d0r?jobsource=n_my104_search"")"
+"《台北中山》資料工程師","敦謙國際智能科技股份有限公司","旅遊服務業","• 營運策略系統 (RMS)
+• 定價採集，多平台房源定價的抓取和分析工作，建立資料數據。
+• 定價分析，善用資料探勘技術，分類分群並歸納出定價策略。
+• 定價建議，根據數據透過機器學習，協助旅宿決定房間最佳定價。
+• 建模預測，根據歷史銷售資料","台北市中山區","月薪42,000~90,000元","=HYPERLINK(""http:////www.104.com.tw/job/7b120?jobsource=n_my104_search"")"
+"資料工程師_資訊處(內湖)","台達電子工業股份有限公司 _DELTA ELECTRONICS INC.","其他電子零組件相關業","和技巧，能夠設計和實現適合的數據架構，以支持業務需求和分析。
+3.數據工程:熟悉ELT與ETL的流程開發與管理以及監控(Nifi, Airflow, SSIS…etc)。
+4.開發語言: Python or Java / C#。
+
+《","台北市內湖區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/82tip?jobsource=n_my104_search"")"
+"Data Engineer","睿控網安股份有限公司","電腦軟體服務業","我們正在尋找一位資料工程師，該職位將負責設計和構建資料管道和資料基礎設施，支持公司各種資料分析和財務預測項目的順利進行。您將與資料分析師合作，確保資料的準確性、一致性和高效處理。
+
+職責：
+1.	資料集成與ETL流程
+	- 設計和實施ETL（提取","台北市信義區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/8b9pi?jobsource=n_my104_search"")"
+"資料工程師","圖靈數位股份有限公司","其它軟體及網路相關業","行銷判讀，運營，轉化方面的戰略支持與技術方法。成員大多是技術工程師組成，協助客戶收集有用的數據，了解數據，利用數據。
+
+目前是 Google Marketing Platform、Mixpanel、AB Tasty 認證合作夥伴。
+
+公司福利：
+・","台北市中正區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/7v0e3?jobsource=n_my104_search"")"
+"資料工程師 Data Engineer【聯想感】","股感資訊股份有限公司","網際網路相關業","1. 收集和整合各種資料來源，建立高效的資料架構。
+2. 設計和實現數據管道和 ETL 流程。
+3. 實現數據庫的優化和管理。
+4. 解決數據處理中出現的問題。","台北市松山區","月薪50,000元以上","=HYPERLINK(""http:////www.104.com.tw/job/8fxa1?jobsource=n_my104_search"")"
+"大數據ETL工程師","達暉資訊有限公司","電腦系統整合服務業"," °o‧° °o‧° °o‧°
+
+▍必要條件：
+※ 具 Python 開發大數據 ETL 流程，二年以上經驗為佳。
+※ 具備版本控制及 CI/CD 概念， Git 實際操作經驗。
+※ 具備 Hadoop 環境 (CDH、Apache Hadoop)","台北市大安區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/8fz8b?jobsource=n_my104_search"")"
+"FinTech資料工程師(台北)【BU68-FHA】","敦陽科技股份有限公司","電腦系統整合服務業","1. 國際FinTech金融科技軟體系統的導入建置、測試及維護
+2. 與國外軟體工程師共同解決軟體系統相關問題
+3. 金融系統整合之客製化軟體開發，例如：數據資料處理、AI模型建置
+4. FinTech金融科技技術、產品研究，例如：洗錢防制(","台北市內湖區","月薪30,000~70,000元","=HYPERLINK(""http:////www.104.com.tw/job/4bs41?jobsource=n_my104_search"")"
+"資料工程師-情報系統二team【全家便利商店關係企業】","精藤股份有限公司","電腦系統整合服務業","
+
+職務內容如下：
+1.	管理／維運數據中台，負責數據的蒐集、交換、儲存、清理，執行ETL作業，把關資料正確性與品質。
+2.	製作BI儀錶板，供使用者檢視經營指標。
+3.	協助建置數據治理環境與制度。
+4.	配合資料分析相關作業，並對需求者簡報。
+5.","台北市中山區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/84xyg?jobsource=n_my104_search"")"
+"資料科學工程師 (Data Engineer) -- 資料科學實驗室 (數數發中心,DDT)_I00018190","國泰金控_國泰金融控股股份有限公司","金融控股業","[工作內容]
+職務包含但不限於以下內容
+- 基於 Python 語言之產品開發，推廣及後續維護
+- Docker/Kubernetes 相關技術應用研發
+- 雲端技術應用及研究
+- 創新資料科學工程架構研究及開發
+- 大數據專案開發實作
+","台北市信義區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/8hztb?jobsource=n_my104_search"")"
+"數據工程師(內湖)","可樂旅遊旅行社股份有限公司","旅遊服務業","【工作內容】
+1. 專案數據分析。
+2. 資料倉儲系統之程式設計及開發。
+3. 負責專案之程式開發與測試及Code review。
+4. 資料處理依循資料安全管理制度規範。
+5. 配合專案需求執行系統導入及上線。
+6. 製作資料庫規格文件。
+
+【","台北市內湖區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/853np?jobsource=n_my104_search"")"
+"資料分析工程師_Data Analysis Engineer_台北","昕力資訊股份有限公司","電腦軟體服務業","中、台南、高雄、新加坡及越南。
+
+在現在這個數位轉型的大時代中，為了提供更專業的服務及產品，我們需要優秀的夥伴加入。
+
+【資料分析工程師夥伴工作內容會包含什麼？】
+1. 有大數據資料或log資料處理經驗
+2. 熟悉Regular","台北市內湖區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/8hri6?jobsource=n_my104_search"")"
+"數據工程師Data Engineer","統一資訊股份有限公司","電腦系統整合服務業","效能精進有興趣之人才，與我們攜手打造貼近客戶運用之數據服務。
+
+【工作內容】
+1. 熟悉資料倉儲與數據湖概念，進行數據清洗、資料整備等相關數據轉換與整合。
+2. 熟悉數據工程的ETL流程，處理數據開發、自動化、測試、監控、佈署等相關技術解決方案。","台北市內湖區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/4bma8?jobsource=n_my104_search"")"
+"後端工程主管","香港商蒙卓有限公司台灣分公司","網際網路相關業","工作內容
+
+- 負責 Backend 程式設計並擬定開發計畫
+- 檢視並優化服務安全性穩定性
+- 持續增加測試以及重構來優化效能與改善程式品質
+- 撰寫技術文件、內部流程SOP
+- 協助處理部門內外溝通事務，並分配部門工作與調配資源
+- 軟體工作環境以及軟體流程持續改善
+- Devops相關工具與部署的持續優化
+
+條件要求
+- 英文閱讀撰寫能力中級以上
+- 五年以上 Backend 程式開發經驗
+- 有管理 Backend Team 兩年以上經驗
+- 熟悉 Node.js / Javascript ES6 / TypeScript
+- 熟悉 MongoDB, Redis
+- 熟悉容器化部署 (Docker)
+- 熟悉 Distributed Services 且有參與設計經驗 
+- 瞭解網路OSI七層架構與基本協定（http, https, websocket, tcp/ip ...等)
+- 瞭解 DevOps 服務部署方法和流程，使用過雲端服務經驗，如 AWS, GCP, Digital Ocean 等
+- 暸解 System monitoring 實務
+- 擅長溝通協調，會使用不同的方式（如文件，畫圖，敘事）幫助溝通更順暢","台北市松山區","年薪1,500,000~2,000,000元","=HYPERLINK(""http:////www.104.com.tw/job/8cbyv?jobsource=hotjob_chr"")"
+"【TENG2001】Senior Back-End Engineer (Up to Leader)","SHOPLINE Technology Corp., Ltd._商線科技股份有限公司","網際網路相關業","SHOPLINE 全球智慧開店平台，是提供品牌一舉創建、管理線上與線下商店的一站式智慧開店服務。
+
+以品牌電商架站平台為核心，整合網站設計、商品管理、金物流服務以及行銷導流工具，為賣家提供簡單、好上手的架站服務，是亞洲最大的網路開店平台，此外，SHOPLINE 也提供跨境、O2O 虛實整合、POS 系統等全通路解決方案。自 2013 年創辦以來，全球已經有超過 500,000 個品牌使用 SHOPLINE 的服務成功開店，讓 SHOPLINE 成為在亞洲市場的行業領軍者。
+
+我們保有外商的制度福利與新創公司的彈性，你還等什麼！
+歡迎對 startup 有熱誠的人才加入我們的頂尖團隊！
+
+
+【What you'll be doing】
+- 負責電商平台程式開發及維護
+- 撰寫高品質的軟體程式
+- 新技術學習及導入
+- 使用技術與工具：Node.js, Golang, Ruby on Rails, Redis, MongoDB, AWS, Elastic Search
+
+【Who we are looking for】
+- 精通以及具備一種以上的語言技能，如：Ruby、Go、Python、Java、Node.js 和學習其他語言的能力
+- 擅長 Redis, MongoDB, AWS.
+- 有物件導向程式設計 (object-oriented programming) 經驗
+- 有 Functional programing 開發經驗
+- 有資料庫 (database) 相關經驗
+- 細心且具備良好溝通能力，並且樂於團隊合作以及幫助團隊解決問題
+- 對軟體開發及網路科技發展有興趣
+- 具有電子商務程式開發經驗者優先
+- 需基本中英文讀寫能力
+
+【It'd be a plus if you have】
+- 有管理團隊的經驗
+- 精通 Ruby on Rails (優先) 或是 Golang
+- 熟悉或對敏捷式開發 (Agile development) 有興趣
+","台北市松山區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/7kkv4?jobsource=hotjob_chr"")"
+"【數位驅動】中台發展ETL Data工程師 / ETL Data Engineer_I00011673","國泰世華商業銀行股份有限公司","銀行業","作進行數位、數據、核心轉置及Open API等專案之ETL Data及批次作業相關工作，內容包含以下項目：
+
+1.服務資料下檔之ETL批次流程開發
+2.資料產製及清除作業運營優化
+3.批次作業的研發，如運用容器、開源項目優化等
+4.持續研究資料處理","台北市信義區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/87ctk?jobsource=n_my104_search"")"
+"DBA資料庫與數據工程師","晉瑜企業股份有限公司","水泥及水泥製品製造業","【工作內容/角色】
+
+在邁向工業物聯網平台整合與智慧製造解決方案的路上，在團隊中扮演重要的角色。您會與一支實力堅強的團隊協同作業，一同參與討論技術規格。在成員互相討論激發中，共同提升技術。作為Database Administrator，除了資料","台北市大安區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/8d8qi?jobsource=n_my104_search"")"
+"LO【數據工程師】","零壹科技股份有限公司_Zero One Tech","電腦系統整合服務業","1. 數據湖、數據中台、資料庫及資料倉儲系統規劃、設計與監控管理
+2. 數據來源收集、整理、儲存、分析等數據工作流（Data Ppipeline／ETL）之建置與開發
+3. 數據視覺化呈現工具、預測模型、人工智慧（AI）的應用開發
+4. 持續學習","台北市內湖區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/8ddnm?jobsource=n_my104_search"")"
+"數據工程師 (IDS-資料庫技能與維護)","宏燁資訊股份有限公司","電腦系統整合服務業","因剖析、多面向資料源數據報表假設證明。
+4. ETL工具使用。
+5. 非結構化資料使用(mongoDB)。 
+6. 資料庫集成管理軟體學習(NDB)。
+7. 有金融相關經驗佳。
+8. 正職職位，必要時需於客戶端駐點。","台北市中正區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/86qk3?jobsource=n_my104_search"")"
+"【台北事業處】AI研發工程師","千享國際企業股份有限公司","電腦系統整合服務業","等進行開發和優化，並執行資料清洗、特徵工程等資料預處理工作。
+4、程式語言應用： 使用Python進行物件導向程式設計，開發高效能的AI應用。
+5、團隊合作與溝通： 具備良好的團隊協作能力，能主動積極解決問題，與其他部門合作完成專案目標。
+
+技能需","台北市信義區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/8hxmj?jobsource=n_my104_search"")"
+"Data Scientist 數據科學家","美庫爾數據商務顧問股份有限公司","工商顧問服務業"," Redshift、GCP Vertex AI、BigQuery，進行資料處理、模型訓練和優化。
+● 跨功能團隊合作 Collaborator: 與數據工程師、分析師和 CRM 專家等跨職能團隊密切合作，從商業需求出發，設計並實施實際可行的技術解決方案。","台北市信義區","年薪700,000~1,000,000元","=HYPERLINK(""http:////www.104.com.tw/job/8bzdr?jobsource=n_my104_search"")"
+"Data Engineering Team Lead","街口電子支付股份有限公司","網際網路相關業"," INTERESTED】
+-Lead and mentor a team of data engineers in building and maintaining scalable ETL pipelines, ensuring data","台北市松山區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/8hwoa?jobsource=n_my104_search"")"
+"資料庫系統工程師","區塊科技股份有限公司","其它軟體及網路相關業","1. 區塊鏈系統資料庫優化
+2.區塊鏈節點資料整合至資料庫
+3.NonSQL及 SQL 資料庫並用開發
+熟Linux 或 具資料庫相關證照經驗者為佳 ","台北市中山區","月薪66,000~75,000元","=HYPERLINK(""http:////www.104.com.tw/job/89dik?jobsource=n_my104_search"")"
+"60146S0_商業智慧系統及數據工程師","神通資訊科技股份有限公司","電腦系統整合服務業","具強烈企圖心和創意，有開放學習的態度與團隊合作的精神，積極主動、學習力強、有熱誠、執行力強、有獨立思考能力。本職務須可自我管理，並對工作有高度責任感。對相關商業智慧、數據工程有興趣者，工作內容:
+1.	熟悉資料庫概念，進行資料整備、Data","台北市內湖區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/85nbl?jobsource=n_my104_search"")"
+"科技金融_程式設計師(ETL)","中國信託商業銀行股份有限公司","銀行業","1.ODS、BO系統開發、管理與維運
+2.法金風險資訊平台系統維護與ETL維運程式開發
+
+※請至中信官方招募網站投遞履歷：
+https://ctbcholding.wd3.myworkdayjobs.com/External/job/--ETL-","台北市信義區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/5qbjd?jobsource=n_my104_search"")"
+"P7-Python資料工程師","意藍資訊股份有限公司","網際網路相關業","本公司是國內搜尋及語意分析市占率最高的廠商，專注研發非結構資料之數據處理，尋找熟悉Python及物件導向設計的人才加入。工作主要為開發與維運資料產線，搜集語料、資料儲存處理，並提供API服務供下游服務使用。
+
+工作內容如下：
+- 資料搜集程式開發","台北市大安區","月薪35,000~45,000元","=HYPERLINK(""http:////www.104.com.tw/job/7csnw?jobsource=n_my104_search"")"
+"RD20100 Data Engineer 數據工程師","華碩電腦股份有限公司","電腦及其週邊設備製造業","1. 負責數據建模,資料倉儲,BI系統開發維運發                            
+2. 設計與開發ETL程式                            
+3. 負責Big Data分析處理","台北市北投區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/7ba34?jobsource=n_my104_search"")"
+"數據工程師 Data Engineer -集團徵才-數據科技(數數發中心, DDT)_I00014628","國泰金控_國泰金融控股股份有限公司","金融控股業","[主要任務]
+1. 各項數據資料盤點與蒐集，並進行資料模型設計與管理
+2. 因應業務需求支援各類型來源資料串接、資料處理，完善資料倉儲
+3. 資料 ETL 流程自動化規劃、設計、開發與監控維護
+4. 資料品質之監控與管理，及對應機制的建立
+5.","台北市信義區","無薪資資訊","=HYPERLINK(""http:////www.104.com.tw/job/87w7s?jobsource=n_my104_search"")"
